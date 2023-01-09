@@ -1,0 +1,16 @@
+version: '3.1'
+
+services:
+
+  mongo:
+    image: mongo:4.2
+    restart: always
+    env_file:
+      - .env
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: $MONGO_USER
+      MONGO_INITDB_ROOT_PASSWORD: $MONGO_PASSWORD
+    ports:
+      - 27017:27017
+    volumes:
+      - ${HOME}/Projects/Parsing/data:/data/db
