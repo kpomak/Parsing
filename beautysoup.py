@@ -14,8 +14,8 @@ def salary_parser(salary: str) -> list:
     money = re.findall(r"\d+", salary)
     currency = re.findall(r"\D+", salary)[-1]
     min_salary = money[0]
-    max_salary = money[-1] if money[-1] != min_salary else "infinity"
-    return [min_salary, max_salary, currency]
+    max_salary = int(money[-1]) if money[-1] != min_salary else "infinity"
+    return [int(min_salary), max_salary, currency]
 
 
 def hh_parse(target: str, data: list) -> list:
@@ -138,7 +138,7 @@ def sj_parse(target: str, data: list) -> list:
 if __name__ == "__main__":
     parsed_data = []
     hh_parse("Django", parsed_data)
-    sj_parse("Python", parsed_data)
+    sj_parse("Django", parsed_data)
 
     with open("offers.json", "w") as f:
         json.dump(parsed_data, f, indent=4, ensure_ascii=False)

@@ -11,7 +11,18 @@
         "source": "hh.ru",
         "_id": "73433068hh",
         "salary": [
-            "120000",
+            120000,
+            "infinity",
+            "руб."
+        ]
+    },
+    {
+        "name": "Python backend developer (Django)",
+        "link": "https://spb.hh.ru/vacancy/75625204?from=vacancy_search_list&query=Django",
+        "source": "hh.ru",
+        "_id": "75625204hh",
+        "salary": [
+            300000,
             "infinity",
             "руб."
         ]
@@ -22,8 +33,19 @@
         "source": "hh.ru",
         "_id": "67856203hh",
         "salary": [
-            "300000",
-            "360000",
+            300000,
+            360000,
+            "руб."
+        ]
+    },
+    {
+        "name": "Web-разработчик (в офис full time job)",
+        "link": "https://spb.hh.ru/vacancy/73771460?from=vacancy_search_list&query=Django",
+        "source": "hh.ru",
+        "_id": "73771460hh",
+        "salary": [
+            100000,
+            "infinity",
             "руб."
         ]
     },
@@ -33,16 +55,33 @@
         "source": "hh.ru",
         "_id": "73324416hh",
         "salary": [
-            "150000",
-            "250000",
+            150000,
+            250000,
             "руб."
         ]
     },
     {
-        "name": "Middle Python developer",
-        "link": "https://spb.hh.ru/vacancy/75522826?from=vacancy_search_list&query=Django",
+        "name": "Python developer",
+        "link": "https://spb.hh.ru/vacancy/75629393?from=vacancy_search_list&query=Django",
         "source": "hh.ru",
-        "_id": "75522826hh"
+        "_id": "75629393hh"
+    },
+    {
+        "name": "Python-разработчик (Middle/Middle+)",
+        "link": "https://spb.hh.ru/vacancy/73503625?from=vacancy_search_list&query=Django",
+        "source": "hh.ru",
+        "_id": "73503625hh"
+    },
+    {
+        "name": "Junior Python Backend Developer",
+        "link": "https://spb.hh.ru/vacancy/73325392?from=vacancy_search_list&query=Django",
+        "source": "hh.ru",
+        "_id": "73325392hh",
+        "salary": [
+            60000,
+            "infinity",
+            "руб."
+        ]
     },
     {
         "name": "Python Developer",
@@ -51,10 +90,10 @@
         "_id": "74158160hh"
     },
     {
-        "name": "Python Developer / Data Engineer",
-        "link": "https://spb.hh.ru/vacancy/74352950?from=vacancy_search_list&query=Django",
+        "name": "Middle Python developer",
+        "link": "https://spb.hh.ru/vacancy/75522826?from=vacancy_search_list&query=Django",
         "source": "hh.ru",
-        "_id": "74352950hh"
+        "_id": "75522826hh"
     },
     {
         "name": "Middle Python developer",
@@ -62,10 +101,33 @@
         "source": "hh.ru",
         "_id": "73444442hh",
         "salary": [
-            "100000",
+            100000,
             "infinity",
             "руб."
         ]
+    },
+    {
+        "name": "Middle Python developer",
+        "link": "https://spb.hh.ru/vacancy/49299326?from=vacancy_search_list&query=Django",
+        "source": "hh.ru",
+        "_id": "49299326hh",
+        "salary": [
+            150000,
+            200000,
+            "руб."
+        ]
+    },
+    {
+        "name": "Python Developer / Data Engineer",
+        "link": "https://spb.hh.ru/vacancy/74352950?from=vacancy_search_list&query=Django",
+        "source": "hh.ru",
+        "_id": "74352950hh"
+    },
+    {
+        "name": "Python developer (Middle/Middle+)",
+        "link": "https://spb.hh.ru/vacancy/73900822?from=vacancy_search_list&query=Django",
+        "source": "hh.ru",
+        "_id": "73900822hh"
     },
     {
         "name": "Python Developer",
@@ -73,7 +135,7 @@
         "source": "hh.ru",
         "_id": "72868638hh",
         "salary": [
-            "170000",
+            170000,
             "infinity",
             "руб."
         ]
@@ -85,48 +147,14 @@
         "_id": "73244938hh"
     },
     {
-        "name": "Python-разработчик (Middle/Middle+)",
-        "link": "https://spb.hh.ru/vacancy/73503625?from=vacancy_search_list&query=Django",
-        "source": "hh.ru",
-        "_id": "73503625hh"
-    },
-    {
         "name": "Наставник курсов по Python разработке",
         "link": "https://spb.hh.ru/vacancy/75532334?from=vacancy_search_list&query=Django",
         "source": "hh.ru",
         "_id": "75532334hh",
         "salary": [
-            "40000",
-            "80000",
+            40000,
+            80000,
             "руб."
-        ]
-    },
-    {
-        "name": "Middle Python developer",
-        "link": "https://spb.hh.ru/vacancy/49299326?from=vacancy_search_list&query=Django",
-        "source": "hh.ru",
-        "_id": "49299326hh",
-        "salary": [
-            "150000",
-            "200000",
-            "руб."
-        ]
-    },
-    {
-        "name": "Backend-Developer Python (senior)",
-        "link": "https://spb.hh.ru/vacancy/73474882?from=vacancy_search_list&query=Django",
-        "source": "hh.ru",
-        "_id": "73474882hh"
-    },
-    {
-        "name": "Python Engineer, Remote US timezone",
-        "link": "https://spb.hh.ru/vacancy/73811153?from=vacancy_search_list&query=Django",
-        "source": "hh.ru",
-        "_id": "73811153hh",
-        "salary": [
-            "4000",
-            "infinity",
-            "USD"
         ]
     },
     {
@@ -136,33 +164,50 @@
         "_id": "74365805hh"
     },
     {
-        "name": "Python developer (Middle/Middle+)",
-        "link": "https://spb.hh.ru/vacancy/73900822?from=vacancy_search_list&query=Django",
+        "name": "Backend-Developer Python (senior)",
+        "link": "https://spb.hh.ru/vacancy/73474882?from=vacancy_search_list&query=Django",
         "source": "hh.ru",
-        "_id": "73900822hh"
+        "_id": "73474882hh"
     },
     {
-        "name": "Python Developer (группа автоматизации)",
-        "link": "https://spb.hh.ru/vacancy/72416568?from=vacancy_search_list&query=Django",
+        "name": "QA Manual Engineer",
+        "link": "https://spb.hh.ru/vacancy/75633340?from=vacancy_search_list&query=Django",
         "source": "hh.ru",
-        "_id": "72416568hh"
+        "_id": "75633340hh"
     },
     {
-        "name": "Senior Python developer (remote)",
-        "link": "https://spb.hh.ru/vacancy/74669732?from=vacancy_search_list&query=Django",
+        "name": "Junior Python разработчик",
+        "link": "https://spb.hh.ru/vacancy/75553023?from=vacancy_search_list&query=Django",
         "source": "hh.ru",
-        "_id": "74669732hh",
+        "_id": "75553023hh",
         "salary": [
-            "250000",
-            "350000",
+            60000,
+            "infinity",
             "руб."
         ]
     },
     {
-        "name": "Senior Python developer",
-        "link": "https://spb.hh.ru/vacancy/74040235?from=vacancy_search_list&query=Django",
+        "name": "Автор курсов по python-разработке в Практикум",
+        "link": "https://spb.hh.ru/vacancy/73337881?from=vacancy_search_list&query=Django",
         "source": "hh.ru",
-        "_id": "74040235hh"
+        "_id": "73337881hh"
+    },
+    {
+        "name": "Сетевой инженер",
+        "link": "https://spb.hh.ru/vacancy/70979023?from=vacancy_search_list&query=Django",
+        "source": "hh.ru",
+        "_id": "70979023hh"
+    },
+    {
+        "name": "Дежурный инженер Linux",
+        "link": "https://spb.hh.ru/vacancy/74046179?from=vacancy_search_list&query=Django",
+        "source": "hh.ru",
+        "_id": "74046179hh",
+        "salary": [
+            25000,
+            50000,
+            "руб."
+        ]
     },
     {
         "name": "Сетевой инженер",
@@ -171,26 +216,10 @@
         "_id": "73468170hh"
     },
     {
-        "name": "HTML-верстальщик",
-        "link": "https://spb.hh.ru/vacancy/69669712?from=vacancy_search_list&query=Django",
+        "name": "Инженер-программист (отдел новой техники и программирования)",
+        "link": "https://spb.hh.ru/vacancy/72561693?from=vacancy_search_list&query=Django",
         "source": "hh.ru",
-        "_id": "69669712hh",
-        "salary": [
-            "90000",
-            "130000",
-            "руб."
-        ]
-    },
-    {
-        "name": "Дежурный инженер Linux",
-        "link": "https://spb.hh.ru/vacancy/74046179?from=vacancy_search_list&query=Django",
-        "source": "hh.ru",
-        "_id": "74046179hh",
-        "salary": [
-            "25000",
-            "50000",
-            "руб."
-        ]
+        "_id": "72561693hh"
     },
     {
         "name": "Middle+/Senior Frontend Developer (Vue.js)",
@@ -205,18 +234,6 @@
         "_id": "73021911hh"
     },
     {
-        "name": "Сетевой инженер",
-        "link": "https://spb.hh.ru/vacancy/70979023?from=vacancy_search_list&query=Django",
-        "source": "hh.ru",
-        "_id": "70979023hh"
-    },
-    {
-        "name": "Инженер-программист (отдел новой техники и программирования)",
-        "link": "https://spb.hh.ru/vacancy/72561693?from=vacancy_search_list&query=Django",
-        "source": "hh.ru",
-        "_id": "72561693hh"
-    },
-    {
         "name": "Системный аналитик на проект \"Ценообразование\"",
         "link": "https://spb.hh.ru/vacancy/74350209?from=vacancy_search_list&query=Django",
         "source": "hh.ru",
@@ -228,7 +245,7 @@
         "source": "hh.ru",
         "_id": "74005437hh",
         "salary": [
-            "250000",
+            250000,
             "infinity",
             "руб."
         ]
@@ -245,8 +262,8 @@
         "source": "hh.ru",
         "_id": "73473161hh",
         "salary": [
-            "80000",
-            "120000",
+            80000,
+            120000,
             "руб."
         ]
     },
@@ -256,31 +273,9 @@
         "source": "hh.ru",
         "_id": "73475843hh",
         "salary": [
-            "100000",
+            100000,
             "infinity",
             "руб."
-        ]
-    },
-    {
-        "name": "Python разработчик (Middle)",
-        "link": "https://spb.superjob.ru/vakansii/python-razrabotchik-43582144.html",
-        "source": "spb.superjob.ru",
-        "_id": "43582144sj",
-        "salary": [
-            "200000",
-            "260000",
-            "₽"
-        ]
-    },
-    {
-        "name": "Разработчик Python",
-        "link": "https://spb.superjob.ru/vakansii/razrabotchik-python-41696139.html",
-        "source": "spb.superjob.ru",
-        "_id": "41696139sj",
-        "salary": [
-            "180000",
-            "infinity",
-            "₽"
         ]
     },
     {
@@ -289,8 +284,36 @@
         "source": "spb.superjob.ru",
         "_id": "44904066sj",
         "salary": [
-            "150000",
+            150000,
             "infinity",
+            "₽"
+        ]
+    },
+    {
+        "name": "Программист",
+        "link": "https://spb.superjob.ru/vakansii/programmist-33366632.html",
+        "source": "spb.superjob.ru",
+        "_id": "33366632sj",
+        "salary": [
+            70000,
+            72000,
+            "₽"
+        ]
+    },
+    {
+        "name": "Middle/Senior QA Automation Engineer",
+        "link": "https://spb.superjob.ru/vakansii/middle-43470739.html",
+        "source": "spb.superjob.ru",
+        "_id": "43470739sj"
+    },
+    {
+        "name": "Python Developer",
+        "link": "https://spb.superjob.ru/vakansii/python-developer-43470721.html",
+        "source": "spb.superjob.ru",
+        "_id": "43470721sj",
+        "salary": [
+            250000,
+            350000,
             "₽"
         ]
     },
@@ -312,16 +335,21 @@
         "source": "spb.superjob.ru",
         "_id": "44897514sj",
         "salary": [
-            "250000",
+            250000,
             "infinity",
             "₽"
         ]
     },
     {
-        "name": "Разработчик python (Middle/Senior)",
-        "link": "https://spb.superjob.ru/vakansii/razrabotchik-python-44897045.html",
+        "name": "DevOps / SRE Engineer (Remote)",
+        "link": "https://spb.superjob.ru/vakansii/devops-44897448.html",
         "source": "spb.superjob.ru",
-        "_id": "44897045sj"
+        "_id": "44897448sj",
+        "salary": [
+            150000,
+            "infinity",
+            "₽"
+        ]
     },
     {
         "name": "Lead Python Developer / Ведущий разработчик Python",
@@ -330,389 +358,15 @@
         "_id": "44950901sj"
     },
     {
-        "name": "Специалист технической поддержки",
-        "link": "https://spb.superjob.ru/vakansii/specialist-tehnicheskoj-podderzhki-44718646.html",
+        "name": "Разработчик Python Senior",
+        "link": "https://spb.superjob.ru/vakansii/razrabotchik-python-senior-44950991.html",
         "source": "spb.superjob.ru",
-        "_id": "44718646sj",
-        "salary": [
-            "15000",
-            "infinity",
-            "₽"
-        ]
+        "_id": "44950991sj"
     },
     {
-        "name": "Главный специалист информационной безопасности (endpoint security)",
-        "link": "https://spb.superjob.ru/vakansii/glavnyj-specialist-informacionnoj-bezopasnosti-44929138.html",
+        "name": "Middle-BackEnd-разработчик (Python)",
+        "link": "https://spb.superjob.ru/vakansii/middle-backend-razrabotchik-44673065.html",
         "source": "spb.superjob.ru",
-        "_id": "44929138sj"
-    },
-    {
-        "name": "PostgreSQL DBA (Database Administrator)",
-        "link": "https://spb.superjob.ru/vakansii/postgresql-dba-45417872.html",
-        "source": "spb.superjob.ru",
-        "_id": "45417872sj"
-    },
-    {
-        "name": "Аналитик психологической службы",
-        "link": "https://spb.superjob.ru/vakansii/analitik-psihologicheskoj-sluzhby-41239401.html",
-        "source": "spb.superjob.ru",
-        "_id": "41239401sj"
-    },
-    {
-        "name": "Аналитик данных",
-        "link": "https://spb.superjob.ru/vakansii/analitik-dannyh-44488229.html",
-        "source": "spb.superjob.ru",
-        "_id": "44488229sj"
-    },
-    {
-        "name": "DevOps Engineer (middle)",
-        "link": "https://spb.superjob.ru/vakansii/devops-engineer-45385400.html",
-        "source": "spb.superjob.ru",
-        "_id": "45385400sj",
-        "salary": [
-            "210000",
-            "infinity",
-            "₽"
-        ]
-    },
-    {
-        "name": "Программист 1C",
-        "link": "https://spb.superjob.ru/vakansii/programmist-1c-44933587.html",
-        "source": "spb.superjob.ru",
-        "_id": "1sj",
-        "salary": [
-            "40065",
-            "infinity",
-            "₽"
-        ]
-    },
-    {
-        "name": "Системный администратор, программист",
-        "link": "https://spb.superjob.ru/vakansii/sistemnyj-administrator-43137935.html",
-        "source": "spb.superjob.ru",
-        "_id": "43137935sj"
-    },
-    {
-        "name": "Инженер 2 категории",
-        "link": "https://spb.superjob.ru/vakansii/inzhener-2-kategorii-43004529.html",
-        "source": "spb.superjob.ru",
-        "_id": "2sj",
-        "salary": [
-            "70000",
-            "100000",
-            "₽"
-        ]
-    },
-    {
-        "name": "Инженер-программист (Беспилотные Авиационные Системы)",
-        "link": "https://spb.superjob.ru/vakansii/inzhener-programmist-45495808.html",
-        "source": "spb.superjob.ru",
-        "_id": "45495808sj",
-        "salary": [
-            "150000",
-            "infinity",
-            "₽"
-        ]
-    },
-    {
-        "name": "Specialist DevOps",
-        "link": "https://spb.superjob.ru/vakansii/specialist-devops-40719996.html",
-        "source": "spb.superjob.ru",
-        "_id": "40719996sj",
-        "salary": [
-            "280000",
-            "infinity",
-            "₽"
-        ]
-    },
-    {
-        "name": "Учитель информатики",
-        "link": "https://spb.superjob.ru/vakansii/uchitel-informatiki-34123084.html",
-        "source": "spb.superjob.ru",
-        "_id": "34123084sj",
-        "salary": [
-            "80000",
-            "infinity",
-            "₽"
-        ]
-    },
-    {
-        "name": "Учитель информатики и робототехники",
-        "link": "https://spb.superjob.ru/vakansii/uchitel-informatiki-i-robototehniki-39720503.html",
-        "source": "spb.superjob.ru",
-        "_id": "39720503sj",
-        "salary": [
-            "80000",
-            "infinity",
-            "₽"
-        ]
-    },
-    {
-        "name": "Начальник информационно-аналитического отдела",
-        "link": "https://spb.superjob.ru/vakansii/nachalnik-informacionno-analiticheskogo-otdela-45483250.html",
-        "source": "spb.superjob.ru",
-        "_id": "45483250sj",
-        "salary": [
-            "114000",
-            "infinity",
-            "₽"
-        ]
-    },
-    {
-        "name": "Системный администратор в школу (с возможностью совмещения учителя информатики)",
-        "link": "https://spb.superjob.ru/vakansii/sistemnyj-administrator-v-shkolu-44512251.html",
-        "source": "spb.superjob.ru",
-        "_id": "44512251sj",
-        "salary": [
-            "55000",
-            "infinity",
-            "₽"
-        ]
-    },
-    {
-        "name": "Инженер-программист",
-        "link": "https://spb.superjob.ru/vakansii/inzhener-programmist-42895298.html",
-        "source": "spb.superjob.ru",
-        "_id": "42895298sj",
-        "salary": [
-            "75000",
-            "infinity",
-            "₽"
-        ]
-    },
-    {
-        "name": "Преподаватель-репетитор по программированию",
-        "link": "https://spb.superjob.ru/vakansii/prepodavatel-repetitor-po-programmirovaniyu-45213819.html",
-        "source": "spb.superjob.ru",
-        "_id": "45213819sj"
-    },
-    {
-        "name": "Учитель информатики, робототехники, Lego-конструирование, управление БПЛА",
-        "link": "https://spb.superjob.ru/vakansii/uchitel-informatiki-38641581.html",
-        "source": "spb.superjob.ru",
-        "_id": "38641581sj"
-    },
-    {
-        "name": "Системный администратор",
-        "link": "https://spb.superjob.ru/vakansii/sistemnyj-administrator-38671598.html",
-        "source": "spb.superjob.ru",
-        "_id": "38671598sj",
-        "salary": [
-            "120000",
-            "infinity",
-            "₽"
-        ]
-    },
-    {
-        "name": "IP-телефонист",
-        "link": "https://spb.superjob.ru/vakansii/ip-telefonist-45475578.html",
-        "source": "spb.superjob.ru",
-        "_id": "45475578sj",
-        "salary": [
-            "180000",
-            "infinity",
-            "₽"
-        ]
-    },
-    {
-        "name": "Тьютор",
-        "link": "https://spb.superjob.ru/vakansii/tyutor-44934702.html",
-        "source": "spb.superjob.ru",
-        "_id": "44934702sj"
-    },
-    {
-        "name": "Преподаватель специальных дисциплин (информатика, программирование, информационная безопасность)",
-        "link": "https://spb.superjob.ru/vakansii/prepodavatel-specialnyh-disciplin-45443049.html",
-        "source": "spb.superjob.ru",
-        "_id": "45443049sj",
-        "salary": [
-            "85000",
-            "infinity",
-            "₽"
-        ]
-    },
-    {
-        "name": "Инженер-программист (C/C++)",
-        "link": "https://spb.superjob.ru/vakansii/inzhener-programmist-45156274.html",
-        "source": "spb.superjob.ru",
-        "_id": "45156274sj",
-        "salary": [
-            "120000",
-            "180000",
-            "₽"
-        ]
-    },
-    {
-        "name": "Разработчик DevOps",
-        "link": "https://spb.superjob.ru/vakansii/razrabotchik-devops-45342391.html",
-        "source": "spb.superjob.ru",
-        "_id": "45342391sj"
-    },
-    {
-        "name": "Учитель информатики",
-        "link": "https://spb.superjob.ru/vakansii/uchitel-informatiki-37923007.html",
-        "source": "spb.superjob.ru",
-        "_id": "37923007sj",
-        "salary": [
-            "65000",
-            "infinity",
-            "₽"
-        ]
-    },
-    {
-        "name": "Специалист службы поддержки (с техническими знаниями)",
-        "link": "https://spb.superjob.ru/vakansii/specialist-sluzhby-podderzhki-37984527.html",
-        "source": "spb.superjob.ru",
-        "_id": "37984527sj",
-        "salary": [
-            "15000",
-            "infinity",
-            "₽"
-        ]
-    },
-    {
-        "name": "Старший научный сотрудник",
-        "link": "https://spb.superjob.ru/vakansii/starshij-nauchnyj-sotrudnik-41239513.html",
-        "source": "spb.superjob.ru",
-        "_id": "41239513sj"
-    },
-    {
-        "name": "Начальник отдела научно-методического обеспечения",
-        "link": "https://spb.superjob.ru/vakansii/nachalnik-otdela-nauchno-metodicheskogo-obespecheniya-41239244.html",
-        "source": "spb.superjob.ru",
-        "_id": "41239244sj"
-    },
-    {
-        "name": "Аналитик",
-        "link": "https://spb.superjob.ru/vakansii/analitik-45467475.html",
-        "source": "spb.superjob.ru",
-        "_id": "45467475sj"
-    },
-    {
-        "name": "Data-analysis-разработчик",
-        "link": "https://spb.superjob.ru/vakansii/data-analysis-razrabotchik-45229479.html",
-        "source": "spb.superjob.ru",
-        "_id": "45229479sj"
-    },
-    {
-        "name": "DevOps / SRE Engineer (Remote)",
-        "link": "https://spb.superjob.ru/vakansii/devops-44897448.html",
-        "source": "spb.superjob.ru",
-        "_id": "44897448sj",
-        "salary": [
-            "150000",
-            "infinity",
-            "₽"
-        ]
-    },
-    {
-        "name": "Архитектор по кибербезопасности, инженер",
-        "link": "https://spb.superjob.ru/vakansii/arhitektor-po-kiberbezopasnosti-44250950.html",
-        "source": "spb.superjob.ru",
-        "_id": "44250950sj"
-    },
-    {
-        "name": "Старший архитектор облачных решений",
-        "link": "https://spb.superjob.ru/vakansii/starshij-arhitektor-oblachnyh-reshenij-44250949.html",
-        "source": "spb.superjob.ru",
-        "_id": "44250949sj"
-    },
-    {
-        "name": "Портфельный аналитик / Продуктовый аналитик (middle / Senior)",
-        "link": "https://spb.superjob.ru/vakansii/portfelnyj-analitik-44897054.html",
-        "source": "spb.superjob.ru",
-        "_id": "44897054sj"
-    },
-    {
-        "name": "Data Scientist",
-        "link": "https://spb.superjob.ru/vakansii/data-scientist-44897053.html",
-        "source": "spb.superjob.ru",
-        "_id": "44897053sj"
-    },
-    {
-        "name": "Data Scientist",
-        "link": "https://spb.superjob.ru/vakansii/data-scientist-44950974.html",
-        "source": "spb.superjob.ru",
-        "_id": "44950974sj"
-    },
-    {
-        "name": "Инженер-системотехник САУ Беспилотные Авиационные Системы",
-        "link": "https://spb.superjob.ru/vakansii/inzhener-sistemotehnik-sau-bespilotnye-aviacionnye-sistemy-45450211.html",
-        "source": "spb.superjob.ru",
-        "_id": "45450211sj",
-        "salary": [
-            "150000",
-            "infinity",
-            "₽"
-        ]
-    },
-    {
-        "name": "Системный администратор ЦОД",
-        "link": "https://spb.superjob.ru/vakansii/sistemnyj-administrator-cod-45402852.html",
-        "source": "spb.superjob.ru",
-        "_id": "45402852sj"
-    },
-    {
-        "name": "Инженер-программист встраиваемых систем",
-        "link": "https://spb.superjob.ru/vakansii/inzhener-programmist-vstraivaemyh-sistem-44718631.html",
-        "source": "spb.superjob.ru",
-        "_id": "44718631sj"
-    },
-    {
-        "name": "Системный администратор Unix",
-        "link": "https://spb.superjob.ru/vakansii/sistemnyj-administrator-unix-45394547.html",
-        "source": "spb.superjob.ru",
-        "_id": "45394547sj",
-        "salary": [
-            "130000",
-            "infinity",
-            "₽"
-        ]
-    },
-    {
-        "name": "Ведущий сетевой инженер",
-        "link": "https://spb.superjob.ru/vakansii/veduschij-setevoj-inzhener-45394333.html",
-        "source": "spb.superjob.ru",
-        "_id": "45394333sj"
-    },
-    {
-        "name": "Педагог дополнительного образования технической направленности",
-        "link": "https://spb.superjob.ru/vakansii/pedagog-dopolnitelnogo-obrazovaniya-tehnicheskoj-napravlennosti-45432173.html",
-        "source": "spb.superjob.ru",
-        "_id": "45432173sj",
-        "salary": [
-            "15279",
-            "infinity",
-            "₽"
-        ]
-    },
-    {
-        "name": "Инженер платформенной инфраструктуры (DevOps инженер)",
-        "link": "https://spb.superjob.ru/vakansii/inzhener-platformennoj-infrastruktury-44402405.html",
-        "source": "spb.superjob.ru",
-        "_id": "44402405sj"
-    },
-    {
-        "name": "Middle/Senior QA Automation Engineer",
-        "link": "https://spb.superjob.ru/vakansii/middle-43470739.html",
-        "source": "spb.superjob.ru",
-        "_id": "43470739sj"
-    },
-    {
-        "name": "SRE-инженер",
-        "link": "https://spb.superjob.ru/vakansii/sre-inzhener-44687398.html",
-        "source": "spb.superjob.ru",
-        "_id": "44687398sj"
-    },
-    {
-        "name": "Администратор Bitrix",
-        "link": "https://spb.superjob.ru/vakansii/administrator-bitrix-45359189.html",
-        "source": "spb.superjob.ru",
-        "_id": "45359189sj",
-        "salary": [
-            "90000",
-            "infinity",
-            "₽"
-        ]
+        "_id": "44673065sj"
     }
 ]
