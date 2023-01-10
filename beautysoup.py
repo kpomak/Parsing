@@ -54,12 +54,13 @@ def hh_parse(target: str, data: list) -> list:
             vacancy = vacancy.find("a")
             name = vacancy.getText()
             link = vacancy.get("href")
+            _id = re.search(r"\d+", link)[0] + "hh"
 
-            parsed_vacancy = {"name": name, "link": link, "source": "hh.ru"}
+            parsed_vacancy = {"name": name, "link": link, "source": "hh.ru", "_id": _id}
             if salary:
                 parsed_vacancy["salary"] = salary
 
-            parsed_data.append(parsed_vacancy)
+            data.append(parsed_vacancy)
 
         page += 1
         time.sleep(5)
@@ -71,6 +72,7 @@ def sj_parse(target: str, data: list) -> list:
     parse superjob.ru vacancies searched by target
     and save it to data list
     """
+    ids = set()
     url = "https://www.superjob.ru/vacancy/search/"
     base_url = "https://spb.superjob.ru"
     params = {
@@ -105,11 +107,17 @@ def sj_parse(target: str, data: list) -> list:
             if link.startswith("http"):
                 continue
 
+            _id = re.search(r"\d+", link)[0] + "sj"
+            if _id in ids:
+                continue
+            ids.add(_id)
+
             name = vacancy.getText()
             parsed_vacancy = {
                 "name": name,
                 "link": base_url + link,
                 "source": "spb.superjob.ru",
+                "_id": _id,
             }
 
             if salary_content:
@@ -121,7 +129,7 @@ def sj_parse(target: str, data: list) -> list:
                 )
                 if salary:
                     parsed_vacancy["salary"] = salary
-            parsed_data.append(parsed_vacancy)
+            data.append(parsed_vacancy)
         page += 1
         time.sleep(5)
     return data
