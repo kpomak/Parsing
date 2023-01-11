@@ -29,6 +29,7 @@ def hh_parse(target: str, data: list) -> list:
         "area": "2",
         "text": target,
         "ored_clusters": "true",
+        "items_on_page": "20",
         "enable_snippets": "true",
         "hhtmFrom": "vacancy_search_list",
     }
